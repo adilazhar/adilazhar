@@ -39,7 +39,7 @@
 - *Watching:* UFC 🥋, F1 🏎
 
 ## 📫 Contact Me
-- *LinkedIn:* [Adil Azhar](#)
+- *LinkedIn:* [Adil Azhar](https://www.linkedin.com/in/adil-azhar88/)
 - *GitHub:* [adilazhar](https://github.com/adilazhar)
 
 > "Code is like humor. When you have to explain it, it’s bad." - Cory House
