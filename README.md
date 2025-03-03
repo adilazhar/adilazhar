@@ -1,45 +1,28 @@
-# Hi there, I'm Adil Azhar! 👋
+# Hi there, I'm Adil Azhar 👋
 
-## About Me
-- *Name:* Adil Azhar
-- *Degree:* BS Information Technology
-- *Interests:* Flutter , Books and Sports
-- *Goal:* Seeking a mentor to enhance my skills
+## Software Developer
 
-## 🛠 Skills and Technologies
-- *Flutter:*
-  - State management (Riverpod) 🌊
-  - Animations ✨
-  - Version control (Git) 📜
-  - Unit testing (Mocktail) 🧪
-  - SQL 🔍
-  - Firebase backend 🌐
-- *Other Technologies:*
-  - Java ☕
-  - HTML, CSS, JavaScript 🌐
-  - WordPress (Elementor) 
-  - Framer, Webflow 
-- *🎨 Multimedia Editing:*
-  - Photoshop 🖼
-  - After Effects 🎬
-  - Premiere Pro 🎥
-  - CapCut 📹
+I write code to make people's life easier.
 
-## 🚀 Notable Projects
-- *Brexm.com:* Website for a Saudi client using WordPress and Elementor. [Visit Brexm](http://brexm.com)
-- *Minimalist To-Do App:* Flutter and Dart app using Riverpod, unit testing with Mocktail. [Check it out](https://github.com/adilazhar/what_todo)
+### 💻 Tech Stack
 
-## 🎓 Education
-- *Degree:* BS Information Technology
+- **Languages:** Java, JavaScript, Dart, Python, Node.js
+- **Frameworks:** Flutter
+- **Databases:** SQL, NoSQL, MongoDB, Firebase, Supabase
+- **Tools:** Git, GitHub, Automated Testing
+- **Skills:** OOP, API Development, Frontend, Backend
 
-## 🎯 Interests
-- *Tech:* Exploring new technologies 🌍
-- *Reading:* Books and novels 📚
-- *Sports:* Football ⚽, basketball 🏀, badminton 🏸
-- *Watching:* UFC 🥋, F1 🏎
+### 🚀 Projects
 
-## 📫 Contact Me
-- *LinkedIn:* [Adil Azhar](https://www.linkedin.com/in/adilazhar8/)
-- *GitHub:* [adilazhar](https://github.com/adilazhar)
+#### Todo App
+A minimalist task management app. Built with Flutter.
+[View Repository](https://github.com/adilazhar/what_todo)
 
-> "Code is like humor. When you have to explain it, it’s bad." - Cory House
+### 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adilazhar8)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/adiandcode)
+
+---
+
+⭐️ From [AdilAzhar](https://github.com/YourGitHubUsername)
