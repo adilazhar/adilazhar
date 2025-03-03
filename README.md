@@ -4,7 +4,7 @@
 
 I write code to make people's life easier.
 
-### 💻 Tech Stack
+### 💻 Everthing Stack
 
 - **Languages:** Java, JavaScript, Dart, Python, Node.js
 - **Frameworks:** Flutter
