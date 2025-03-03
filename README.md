@@ -25,4 +25,4 @@ A minimalist task management app. Built with Flutter.
 
 ---
 
-⭐️ From [AdilAzhar](https://github.com/YourGitHubUsername)
+⭐️ From [AdilAzhar](https://github.com/adilazhar)
