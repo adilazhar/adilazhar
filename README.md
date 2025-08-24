@@ -6,17 +6,11 @@ I write code to make people's life easier.
 
 ### 💻 Everthing Stack
 
-- **Languages:** Java, JavaScript, Dart, Python, Node.js
+- **Languages:** Java, JavaScript, Dart, Node.js
 - **Frameworks:** Flutter
 - **Databases:** SQL, NoSQL, MongoDB, Firebase, Supabase
 - **Tools:** Git, GitHub, Automated Testing
 - **Skills:** OOP, API Development, Frontend, Backend
-
-### 🚀 Projects
-
-#### Todo App
-A minimalist task management app. Built with Flutter.
-[View Repository](https://github.com/adilazhar/what_todo)
 
 ### 📫 Connect with Me
 
@@ -25,4 +19,4 @@ A minimalist task management app. Built with Flutter.
 
 ---
 
-⭐️ From [AdilAzhar](https://github.com/adilazhar)
+♥ From [AdilAzhar](https://github.com/adilazhar)
