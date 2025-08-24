@@ -19,4 +19,4 @@ I write code to make people's life easier.
 
 ---
 
-♥ From [AdilAzhar](https://github.com/adilazhar)
+♥ From [Adil Azhar](https://github.com/adilazhar)
